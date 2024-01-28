@@ -1,0 +1,38 @@
+html{color: purple;}
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color:blue;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: palegreen;
+
+}
+
+.topnav a.actie {
+    color: black;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 20px;
+}
+button{background-color:white;cursor:pointer;border: none;margin: 8px;padding:10px 14px;}
+button:hover {opacity: 0.8;}
